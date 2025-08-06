@@ -1,0 +1,23 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.venv/
+venv/
+
+# Data files
+*.csv
+*.data
+*.db
+
+# System
+.DS_Store
+Thumbs.db" > .gitignore
