@@ -13,8 +13,8 @@ Machine learning project predicting passenger survival on the Titanic using Rand
 Achieved 81.56% accuracy
 
 Top predictive features:
-Sex
-Age
+Sex,
+Age,
 Passenger class
 
 💻 Requirements
@@ -30,7 +30,3 @@ Upper-class passengers were more likely to survive
 Family size impacted survival chances
 
 
-
-For an even shorter GitHub description (shown under repository name):
-```markdown
-ML model predicting Titanic survival (81.56% accuracy) using Random Forest. Includes EDA, feature engineering, and importance analysis.
